@@ -3,14 +3,26 @@
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"version":"1.0.0.9"}
 =======
 {"version":"1.0.0.38"}
 >>>>>>> ba5b7f8 ('[AUTO BUILD & DEPLOY] V 1.0.0.38')
 =======
+=======
+>>>>>>> 553c811 (Minor version increment)
 {"version":"1.0.0.38"}
 =======
 {"version":"1.0.0.48"}
 >>>>>>> 688f26f ('[AUTO BUILD & DEPLOY] V 1.0.0.48')
+<<<<<<< HEAD
 >>>>>>> 8b2a0c2 ('[AUTO BUILD & DEPLOY] V 1.0.0.48')
+<<<<<<< HEAD
 >>>>>>> c59ea93 ('[AUTO BUILD & DEPLOY] V 1.0.0.48')
+=======
+=======
+=======
+{"version":"1.1.0.0"}
+>>>>>>> b2576bf (Minor version increment)
+>>>>>>> 553c811 (Minor version increment)
+>>>>>>> f272767 (Minor version increment)
